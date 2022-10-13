@@ -32,6 +32,8 @@ turtle.onkey(d_move,'d')
 turtle.onkey(restart,'Escape')
 
 turtle.shape('turtle')
+turtle.color('green')
+turtle.speed('100')
 
 turtle.listen()
 
